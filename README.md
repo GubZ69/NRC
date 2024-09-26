@@ -25,7 +25,7 @@ LINKS
 - [Emoji's Source] (https://getemoji.com/)
 - [Github Emojis](https://gist.github.com/rxaviers/7360908)
 
-
+:disappointed_face:
 👀 🧠 🫁 🫦👴
 
 ## Keyboard shortcuts
